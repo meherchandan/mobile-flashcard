@@ -1,4 +1,4 @@
-# mobile-flashcard
+# Moblie Flashcard
 Mobile flashcard app for both android and IOS using React-native
 
 ## Prerequisite
